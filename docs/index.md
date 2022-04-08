@@ -15,8 +15,10 @@ title: Daniel Dominguez's Resume
 ## Education
 
 **Data Science Major.** *Dec 2023*
+  
 &nbsp;&nbsp;&nbsp;&nbsp;Brigham Young University-Idaho 
 &nbsp;&nbsp;&nbsp;&nbsp;Rexburg, ID.
+  
 &nbsp;&nbsp;&nbsp;&nbsp; **+** Minor: Statistics
 &nbsp;&nbsp;&nbsp;&nbsp;Relevant Courses: Data Wrangling, Visualization, and Intermediate Statistics with RStudio, Introduction to Database, Database Design and Development, Intro to programming, Programming with Python and Data Wrangling, Data Visualization on Tableau and Power Bi, Spreadsheet Analysis in Excel, Business Analytics with Power BI.
 
