@@ -3,7 +3,6 @@ layout: cv
 title: Daniel Dominguez's Resume
 ---
 # Daniel Dominguez
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <a href="danndch@gmail.com">danndch@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
